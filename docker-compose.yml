@@ -34,3 +34,6 @@ services:
 networks:
   traefik-public:
     external: true
+
+pilot:
+    token: "a90cd03c-89c9-4479-b469-3a893bfda772"
